@@ -37,7 +37,7 @@ function yourInitFunction(array,x)
     timeChart
     .width(650)
     .height(140)
-    .margins({top: 10, right: 50, bottom: 20, left: 20})
+    .margins({top: 10, right: 20, bottom: 20, left: 20})
     .dimension(dateDim)
     .group(numRecordsByDate)
     .transitionDuration(500)
