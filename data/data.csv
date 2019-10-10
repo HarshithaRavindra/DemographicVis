@@ -1,167 +1,167 @@
-Latitude,Longitude,Date,Age,Sex,Patient_Address,Patient_State,Hospital_Address,Hospital_State,Whole_Address
-13.0304619,77.56468620000001,06-01-17,14.0,F,nan,nan,"M. S Ramaiah, Bangalore",Karnataka,"MSR College Road, MSR Nagar, MSRIT Post, Bengaluru, Karnataka 560054, India",Bengaluru
-12.9406819,77.5982643,10-01-17,26.0,M,"KURUGODU VILL AND POST, BELLARY TQ",nan,NIMHANS,Karanataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-22.7969535,75.84515649999999,10-01-17,25.0,F,nan,nan,"SAIMS, Indore",Madhya Pradesh,"Indore - Ujjain State Highway, Near MR 10 Crossing, Indore, Madhya Pradesh 453555, India",Indore
-19.751479800000002,75.7138884,20-01-17,62.0,F,Mumbai,Maharashtra,nan,Maharashtra,"Mumbai, Maharashtra, India",Mumbai
-10.807032199999998,78.7111298,30-01-17,62.0,M,"North Managadu, Post Thamaramkotai, Pattukotai, Thanjavur",Tamil Nadu,"Apollo, Trichy",Tamil Nadu,"Tamil N, Old Palpannai, Chennai Bypass Rd, Ariyamangalam Area, Tiruchirappalli, Tamil Nadu 620008, India",Tiruchirappalli
-12.9406819,77.5982643,03-02-17,28.0,F,"6TH BETALIAN ,KSRP TAJ SULTAN PUR ,GULBARGA TOWN AND DIST",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-19.2097076,72.97242740000002,16-02-17,56.0,M,nan,nan,"Jupiter Hospital, Thane",Maharashtra,"Eastern Express Highway, Service Rd, Next To Viviana Mall, Thane, Maharashtra 400601, India",Thane
-22.307573100000003,73.1638444,25-02-17,13.0,M,"Sant Kabir Nagar, Near Akorai, Sayajiganj, Vadodara",Gujarat,Toprani Lab,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-15.352640099999999,75.12426500000001,28-02-17,16.0,M,nan,nan,"Suchirayu Hospital, Hubli",Karnataka,"S.No. 29/8,9,10,11, Javali Garden, Gokul Road, Opposite KSRTC Bus Depot, Hubballi, Karnataka 580030, India",Hubballi
-12.9406819,77.5982643,02-03-17,39.0,M,"MARIPADUGA, JEELAKATE",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-15.361600199999998,75.13072009999999,04-03-17,4.0,F," PO Mudenur, TQ Ramadurg, DST Belgaum",Karnataka,"KIMS, Hubli",Karnataka,"P. B Road, Vidyanagar, Hubballi, Karnataka 580022, India",Hubballi
-12.9406819,77.5982643,08-03-17,16.0,M,"IRRIVANDLAPALLE VILL,MATTAMPALLI PO",Andhra Pradesh,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-11.9494936,79.7970164,08-03-17,5.0,M,"Moopanar Koll St Vellayur- PO, Ulundurpet, Villupuram",Tamil Nadu,"JIPMER, Puducherry",Tamil Nadu,"Dhanvantri Nagar, Gorimedu, Jipmer Campus, Puducherry, Tamil Nadu 605006, India",Puducherry
-12.9294819,77.6201825,01-04-17,54.0,F,"No. 26, Shri Maruthi Nilaya, Shri Chakranaga, Andhrahalli, Vishnadipam Post, Bangalore",Karnataka,"St. John's Medical College, Bangalore",Karnataka,"Sarjapur Road, Bengaluru, Karnataka 560034, India",Bengaluru
-19.0015675,72.8421056,07-04-17,4.0,F,"Dilshad Apartment, Shanti Nagar, Mala Masjid, Kalyan Road",Maharashtra,"KEM, Mumbai",Maharashtra,"Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012, India",Mumbai
-12.9406819,77.5982643,12-04-17,75.0,M,"NO 44, KONDEHALLI, GUTTAHALLI POST",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-15.464357000000001,73.85837059999999,19-04-17,59.0,M,"H. No 740 A, 2nd Fatrade, Duskelim Varla, Salcete",Goa,Goa Medical College,Goa,"Bambolim, Goa 403202, India",Goa
-17.4997845,78.3840907,02-05-17,9.0,M,nan,nan,"Birth Right, Rainbow, Hyderabad",Andhra Pradesh,"Plot No. 1, Chermas, Block 5, Hyder Nagar, RamNaresh Nagar, Kukatpally, Hyderabad, Telangana 500072, India",Hyderabad
-12.9246021,79.13481290000001,16-05-17,11.0,M,nan,nan,CMC Vellore,Tamil Nadu,"Ida Scudder Road, Vellore, Tamil Nadu 632004, India",Vellore
-22.3127258,73.15881970000001,16-05-17,54.0,M ,"97 A, shakti Nagar Society, Kulodara Chowkdi, Khumbhat, Vadodra",Gujrat,"Sterling Hospital, Vadodra",Gujrat,"Race Course Road, Opposite Inox Cinema, Circle West, Hari Nagar, Vadodara, Gujarat 390007, India",Vadodara
-12.9406819,77.5982643,21-05-17,42.0,M,"JIDDEKERE VILLAGE , JAGALUR TALUK",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-18.9970588,72.8430731,25-05-17,26.0,M,"602- Shrisairaj, CHS, Plot no. 56, Sector 29, Vashi, Mumbai",Maharashtra,"MGM Hospital, Mumbai",Maharashtra,"Dr. S.S. Rao Road, Parel, Mumbai, Maharashtra 400012, India",Mumbai
-12.9406819,77.5982643,31-05-17,38.0,F,"CHIKKANAGAVARA, NANGLI HOBALI",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-30.348773600000005,76.35419830000001,28-06-17,30.0,M," NC Fitness Club Patran, Patiala",Punjab,"Phull Neuro and Multispeciality hospital, Patiala",Punjab,"Maharaja Yadvindra Enclave, Near PRTC Workshop, Nabha Road, Patiala, Punjab 147001, India",Patiala
-19.0334048,72.83828630000001,04-07-17,12.0,M,nan,nan,"Hinduja Hospital, Mumubai",Maharashtra,"Veer Sawarkar Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",Mumbai
-10.7454336,79.1119027,15-07-17,51.0,M,nan,nan,"Meenakshi Hospital, Tanjore",Tamil Nadu,"244/2, Trichy Main Road, Near New Bus Stand, Nilagiri Therkku Thottam, Thanjavur, Tamil Nadu 613005, India",Thanjavur
-19.0844395,82.0237032,31-07-17,65.0,M,"Village Satosa, Shivana Shodapara, PS Karpawand, Distt Bastar",Madhya Pradesh,"GMC and Maharani Hospital, Jagdalpur",Madhya Pradesh,"Nayapara, Jagdalpur, Chhattisgarh 494001, India",Chhattisgarh
-16.7009263,74.2266908,26-08-17,4.0,M,"A/P Yevati, Taluka Karveer, Kolhapur",Maharashtra,"GMC, Kolhapur",Maharashtra,"Akbar Mohalla, Kavlapur, Kolhapur, Maharashtra 416002, India",Kolhapur
-22.2516659,73.1973553,01-05-14,3.0,M,Vadodara,Gujarat,"Child Neurology and Epilepsy clinic, Vadodara",Gujarat,"F18/19, Silver Coin apartments, Opp. Bhavan's School, Makarpura Road, Vadodara, Gujarat, India",Vadodara
-19.0334048,72.83828630000001,08-01-17,11.0,M,nan,nan,"Hinduja, Mumbai",Maharashtra,"Veer Sawarkar Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",Mumbai
-12.9406819,77.5982643,16-01-14,50.0,M,"Bellur Village, Nagamangala Tq",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,18-01-14,12.0,F,"Abbaluru Village and Post, Sidlaghatta Tq, Chikballapura",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,22-01-14,35.0,M,"Chinnammanahalli village, Pavgada Tq.",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,25-01-14,11.0,F,"No:110, 6th Cross, R T Nagar",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9373826,77.59205779999999,25-01-14,45.0,M,nan,nan,IGICH,Karnataka,"1st Block, Jayanagar, Bengaluru, Karnataka 560029, India",Bengaluru
-15.3172775,75.7138884,25-01-14,17.0,M,"No:1/20, Porimelu,  Iruvylu, Mangalore Tq, Dakshina Kannada ",nan,nan,Karnataka,"Karnataka, India",Dakshina Kannada
-12.9585657,77.6489842,02-10-14,27.0,M,nan,nan,"Manipal Hospital , Bangalore",Karnataka,"98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017, India",Bengaluru
-12.9246021,79.13481290000001,17-02-15,23.0,M,nan,nan,CMC Vellore,Tamil Nadu,"Ida Scudder Road, Vellore, Tamil Nadu 632004, India",Vellore
-22.276577,73.2002906,18-02-14,49.0,M,nan,nan,Global Baroda Hospital,Gujarat,"4, Manjalpur Road, Near Shreyas Vidhyalaya Nalini House, Manjalpur, Vadodara, Gujarat 390 0011, India",Vadodara
-18.530316100000004,73.8767531,25-02-14,28.0,F,nan,nan,"Jehangiri Hospital, Pune",Maharashtra,"32, Sassoon Road, Opposite Pune Station, Pune, Maharashtra 411001, India",Pune
-22.307573100000003,73.1638444,nan,49.0,M,nan,nan,Toprani,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-9.9287037,78.1369624,25-02-14,21.0,M,nan,nan,Madurai Medical College,Tamil Nadu,"Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020, India",Maduri
-12.9406819,77.5982643,03-03-14,38.0,F,"Basaralu Hobli,  Mandya",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-15.3172775,75.7138884,03-10-14,59.0,F,"Kallarba house, Ichilampady, Nellyedy, Puttur,Dakshina Kannada",nan,nan,Karnataka,"Karnataka, India",Dakshina Kannada
-12.9477337,77.5793661,20-03-14,60.0,M,nan,nan,"Cauvery Medical Centre, Bangalore",Karnataka,"No.37/3, 1st Floor, MNK road, Basavanagudi, Opposite To Lalbagh West Gate, Next To Cauvery Petrol Bunk, Bengaluru, Karnataka 560004, India",Bengaluru
-11.354889100000001,76.8019957,03-12-14,46.0,M,nan,nan,"Pasteur Institute, Coonoor",Tamil Nadu,"Nilgiris, Coonoor, Tamil Nadu 643103, India",Coonoor
-12.9406819,77.5982643,20-03-14,7.0,M,"Halenetha Village, Benngur Post, Krishnangiri",Tamil Nadu,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,24-03-14,8.0,M,"A-101, Shree Ganesh Vihar, Serve No 18",Maharashtra,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,24-03-14,10.0,M," Ratnagiri, Rolla ",Andra Pradesh,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,26-03-14,12.0,M,"Gumyenth post, Senyenemala Tq, Anandhpur",Andra Pradesh,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-18.9716603,72.8098319,26-03-14,76.0,M,"RLY Quarter, D/342 Bara bunglaw, Lonavala",Maharashtra,"Jaslok hospital, Mumbai",Maharashtra,"15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026, India",Mumbai
-12.9406819,77.5982643,16-04-14,38.0,M,"Kemmanna, Haalekatte, Kalya post, Karkala Tq, Uduppi",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,16-04-14,6.0,M,"ObalapuraVillage, Arikatte Post",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-17.421805300000003,78.45201109999999,25-04-14,62.0,M,"Patel Nagar Colony, Chamba Pett, Hyderabad",Andra Pradesh,"NIMS, Hyderabad",Andra Pradesh,"Punjagutta, Hyderabad, Telangana 500082, India",Hyderabad
-18.9716603,72.8098319,28-04-14,36.0,F,"R/5 Jay shiv shakthi society, Malad, Mumbai",Maharashtra,"Jaslok hospital, Mumbai",Maharashtra,"15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026, India",Mumbai
-12.9585657,77.6489842,05-08-14,15.0,M,"Belandhuru Village, Kenchanal Post, Hosanagara, Shimoga",Karnataka,"Manipal Hospital , Bangalore",Karnataka,"98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017, India",Mumbai
-12.2956638,76.63200359999999,05-12-14,31.0,M,"Serathe Monastry, Bylakuppe",Karnataka,"Apollo BGS, Mysore",Karnataka,"Adhichunchanagiri Road, Kuvempunagar, Mysuru, Karnataka 570023, India",Bengaluru
-12.9406819,77.5982643,05-12-14,35.0,M,"Idihalli Village and Post, Madugiri Tq, Tumkur",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Mysuru
-18.963068399999997,72.8336083,23-05-14,6.0,M,"Dhabhon Post, Talwada, Thane",Maharashtra,"JJ Hospital, Mumbai",Maharashtra,"J J Marg, Nagpada-Mumbai Central, Off Jijabhoy Road, Mumbai, Maharashtra 400008, India",Mumbai
-15.8843279,74.5178527,27-05-14,8.0,F,"Azad Nagar, Belguam",Karnataka,"KLES, Belgaum",Karnataka,"JNMC Campus, Nehru Nagar, Belgaum, Karnataka 590010, India",Belgaum
-12.9406819,77.5982643,07-02-14,11.0,M,"Madanahatti Village and Post, Malur, Kolar",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,07-07-14,51.0,M,"Doddaseevi Village, Seevi Agrahara Post",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-28.5629357,77.2102106,07-10-14,nan,nan,nan,nan,"AIIMS, Delhi",Delhi,"Ansari Nagar, New Delhi, Delhi 110029, India",New Delhi
-22.307573100000003,73.1638444,23-07-14,7.0,F,"Bhavans High School, Makar Pura,Vadodara",Gujarat,Toprani,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-12.9406819,77.5982643,28-07-14,14.0,M,"Door No:6-25, Lepakshi",Andra Pradesh,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-11.021994,77.01857700000001,31-07-14,3.0,F,nan,nan,"Centre for Biotech,Coimbatore",Tamil Nadu,"28B, Rajalakshmi Nagar,, Masakalipalayam Road,, Hope College Signal,, Coimbatore, Tamil Nadu 641004, India",Coimbatore
-13.0601743,80.2523214,08-11-14,14.0,F,"House N0:48, Breitwies, Ehrendingen",Switzerland,"Apollo Children's Hospital, Chennai",Tamil Nadu,"No. 15, Shafee Mohammed Road, Thousand Lights, Chennai, Tamil Nadu 600006, India",Chennai
-22.307573100000003,73.1638444,14-08-14,56.0,F,"Jalaram Hospital, Barasia road, Vadodara",Gujarat,Toprani,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-12.9406819,77.5982643,09-01-14,32.0,M,"N0:381, 20th Cross , Lakshmipuram, CMH Road, Bangalore",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-16.684969199999998,74.2381757,09-02-14,7.0,M,"A/P Harchiri,  Ratnagiri- 416712",Maharashtra,"Aster Aadhar Hospital, Kolhapur",Maharashtra,"R. S. No. 628, B Ward, Near Shastri Nagar, Near KMT Workshop, Kolhapur, Maharashtra 416012, India",Kolhapur
-9.9287037,78.1369624,09-10-14,60.0,M,"Mariamman koil, Panrutti, Cuddalore",Tamil Nadu,Madurai Medical College,Tamil Nadu,"Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020, India",Maduri
-9.9287037,78.1369624,09-08-14,60.0,M,nan,nan,Madurai Medical College,Tamil Nadu,"Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020, India",Maduri
-19.2097076,72.97242740000002,09-10-14,1.0,F,nan,nan,"Jupiter Hospital, Thane",Maharashtra,"Eastern Express Highway, Service Rd, Next To Viviana Mall, Thane, Maharashtra 400601, India",Thane
-12.984515,77.6143821,23-09-14,26.0,F,nan,nan,St.Johns Bangalore,Karnataka,"St Johns Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",Bengaluru
-12.9406819,77.5982643,25-09-14,6.0,M,"Surahonne, Santi Nagar, Honnalli Tq",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-17.706492800000003,83.304866,27-10-14,47.0,M,"D/No:6-74, Chakulu veedhi, Sigadam, Sreekakulam",nan,"Andhra Medical College, Vishakapatnam",Andra Pradesh,"Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002, India",Visakhapatnam
-19.0015675,72.8421056,11-05-14,5.0,M,nan,nan,"KEM Hospital, Mumbai",Maharashtra,"Acharya Donde Marg, Parel, Mumbai, Maharashtra 400012, India",Mumbai
-12.9406819,77.5982643,19-11-14,34.0,M,"Venkatapuram village, Mallapadi Post",Tamil Nadu,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-18.5040375,73.8900961,26-11-14,14.0,M,nan,nan,"AFMC, Pune",Maharashtra,"Southern Command, Near Race Course, Solapur Road, Wanowrie, Pune, Maharashtra 411040, India",Pune
-9.9287037,78.1369624,26-11-14,30.0,M,nan,nan,Madurai Medical College,Tamil Nadu,"Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020, India",Maduri
-19.1920332,72.9868847,12-10-14,13.0,F,nan,nan,"Rajiv Gandhi Medical College and CSMH Hospital, Thane",Maharashtra,"1, Thane - Belapur Rd, Kalwa West, Budhaji Nagar, Kalwa, Thane, Maharashtra 400605, India",Thane
-22.307573100000003,73.1638444,27-12-14,72.0,M,"44A, Sampath park, Behind Utkarsh School, Race course, Baroda",Gujarat,Toprani,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-12.9246021,79.13481290000001,12-01-15,10.0,M," Venkataramanalavet, LIC Road, Door No 2-2-358/4, Tirupathi",Andhra Pradesh,CMC Vellore,Tamil Nadu,"Ida Scudder Road, Vellore, Tamil Nadu 632004, India",Vellore
-15.8843279,74.5178527,16-01-15,8.0,M,"Raibag Taluk, Belgam District",Karnataka,"KLES, Belgum",Karnataka,"JNMC Campus, Nehru Nagar, Belgaum, Karnataka 590010, India",Belgaum
-9.9287037,78.1369624,28-01-17,41.0,F,nan,nan,Madurai Medical College,Tamil Nadu,"Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020, India",Maduri
-22.3043652,73.1725354,02-02-15,18.0,M,"No:3, Indraprstha view society, Behind Krishna inn Hotel, Godra road, Halol, Pancha Mahal",Gujarat,VINS,Gujarat,"99, Productivity Road, Urmi Society,, Opp. Haveli, Productivity Road, Akota, Vadodara, Gujarat 390007, India",Vadodara
-18.504901899999997,73.92725959999999,10-03-15,42.0,F, Post Kolhar Khurda Taluka Rahuri Dist Ahmednagar,Maharashtra,Noble Hospital,Maharashtra,"153, Magarpatta City Road, Hadapsar, Pune, Maharashtra 411013, India",Pune
-31.2867663,75.6289065,01-04-15,29.0,M,nan,Andhra Pradesh,"Military hospital, Jalandhar",Punjab,"Nalwa Road, Jalandhar Cantt, Jalandhar Cantt, Jalandhar, Punjab 144005, India",Jalandhar
-12.8091968,77.695097,08-04-15,32.0,M,nan,nan,"Narayan Hrudayalaya, Blore",Karnataka,"258/A, Hosur Road, Bommasandra Industrial Area , Anekal Taluk, Bengaluru, Karnataka 560099, India",Bengaluru
-13.049014,80.234764,29-04-15,58.0,F,PK Street Chidambaram,Tamil Nadu,"Global, Chennai",Tamil Nadu,"No. 11/6, Ground Floor, 4th Street, Bharathinagar, T. Nagar, Chennai, Tamil Nadu 600017, India",Chennai
-12.9373826,77.59205779999999,05-05-15,10.0,M,Janakaloti Hobali Tumkur Dist,Karnataka,IGICH,Karnataka,"1st Block, Jayanagar, Bengaluru, Karnataka 560029, India",Bengaluru
-22.3250211,73.16310109999999,15-05-15,55.0,M,nan,nan,"Bhailal Amin Gen Hosp, Baroda",Gujarat,"Gorwa Road, Vadodara, Gujarat 390003, India",Bengaluru
-12.9406819,77.5982643,19-05-15,26.0,M,Paiyuru village and post,Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.964646,77.6281983,04-06-15,35.0,M,nan,nan,"Command hospital, Bangalore",Karnataka,"Cambridge Road, Cambridge Layout, Jogupalya, Bengaluru, Karnataka 560007, India",Bengaluru
-12.3424835,76.6523711,15-06-15,7.0,M, Bala wasai village Gurur post Katayahassan Distt,Karnataka,JSS Mysore,Karnataka,"Bannimantap Road, Sri Shivarathreeshwara Nagara, Bannimantap, Mysuru, Karnataka 570015, India",Bengaluru
-23.043258399999996,72.54988540000001,17-06-15,3.0,F,nan,nan,"Paediatric neurology Clinic, Ahmedabad",Gujarat,"2nd Floor, AEON, Nr. Vijay Cross Roads, Navrangpura, Ahmedabad, Gujarat 380009, India",Mysuru
-12.9406819,77.5982643,20-06-15,23.0,F,"Ward No:4, Bovi Nayara town  Kalomy, K R Nagara town , Mysore",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Ahmedabad
-9.498066699999999,76.3388484,22-06-15,32.0,M," Kalappurakkal, Kurikkad PO",Kerala,"Alappuzha, Kerela",Kerala,"Alappuzha, Kerala, India",Alappuzha
-16.694329,74.231151,06-07-15,5.0,M,"Ambedkar Galli, Kadamba, Kolhapur",Maharashtra,"Arya child neurology Clinica, Kolhapur",Maharashtra,"Prabhanand Complex, 3rd Floor, Tembe Road, Kolhapur, Maharashtra, India",Kolhapur
-19.117798,74.729958,07-07-15,16.0,F,Somata Chowk Cilival Headco Savedi Ahmednagar,Maharashtra,Nobel Hospital Amhednagar,Maharashtra,"Shirdi Road, Premdan Chowk, Savedi, Ahmednagar, Maharashtra 414003, India",Ahmedabad
-12.9406819,77.5982643,07-07-15,41.0,M,"KADABAGERE VIL AND POST , HARAPANAHALLI TK , KARNATAKA, INDIA",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,20-07-15,37.0,M,"SHIVAKUAMR SWAMIJI NAGARA, K.GOLLA HALLI P.O., KARNATAKA",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-22.307573100000003,73.1638444,25-07-15,21.0,M,"Kunjrav, Matavalu Faliyu, Anand district",Gujarat,Toprani,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-13.360501500000002,74.7863698,28-07-15,20.0,M," Peelathara, Kannur",Kerala,Manipal,Karnataka,"Manipal, Karnataka, India",Udupi
-12.9373826,77.59205779999999,05-08-15,12.0,F,"Chandrapattu Taluka, Hirisave, Sabanhalli, Hassan district",Karnataka,IGICH,Karnataka,"1st Block, Jayanagar, Bengaluru, Karnataka 560029, India",Bengaluru
-17.436660999999997,78.482854,07-08-15,60.0,F,"Flat 302, Hajini Residency, JP Nagar, Yellareddy Guda, Ameerpet, Hyderabad",Andhra Pradesh,Kims Secunderababd,Andhra Pradesh,"1-8-31/1, Minister Road, Krishna Nagar Colony, Begumpet, Secunderabad, Telangana 500003, India",Secunderabad
-8.513628599999999,76.9095433,17-08-15,24.0,M,nan,nan,kerala institute of Medical sciences,Kerala,"1, Anayara Rd, Anayara, Thiruvananthapuram, Kerala 695029, India",Kerala
-12.3210547,76.658332,17-08-15,58.0,F,nan,nan,St. Philomena,Karnataka,"Lourdes Nagar, Ashoka Road, Lashkar Mohalla, Mysuru, Karnataka 570001, India",Mysuru
-16.694329,74.231151,26-08-15,10.0,F,A/P- Dabhil Taluka Ajara DST Kolhapur,Maharashtra,"Arya child neurology Clinica, Kolhapur",Maharashtra,"Prabhanand Complex, 3rd Floor, Tembe Road, Kolhapur, Maharashtra, India",Kolhapur
-12.9406819,77.5982643,31-08-15,65.0,M,nan,nan,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9246021,79.13481290000001,01-09-15,18.0,M,"3153, Akkichttippalayam, Palaniyapuri, Selam ",nan,CMC Vellore,Tamil Nadu,"Ida Scudder Road, Vellore, Tamil Nadu 632004, India",Vellore
-15.8843279,74.5178527,15-09-15,16.0,F,nan,nan,"KLES, Belgum",Karnataka,"JNMC Campus, Nehru Nagar, Belgaum, Karnataka 590010, India",Belgaum
-15.5341227,80.05475,18-09-15,56.0,M,"C Type Quarter, CCI colony, Karan Kottai, Thandur",Andhra Pradesh,"KIMS, Kundapur",Andhra Pradesh,"4-120/A, North Bye-Pass Road, NH-5, Backside Agriculture Market Yard, Ongole, Andhra Pradesh 523001, India",Ongole
-13.0305239,77.5665628,10-10-15,0.0,M,nan,nan,M S ramaiah,Karnataka,"M S Ramaiah Nagar, Mathikere, MSRIT Post, Bengaluru, Karnataka 560054, India",Bengaluru
-11.9494936,79.7970164,15-10-15,18.0,F,nan,Tamil Nadu,JIPMER Puducherry,Tamil Nadu,"Dhanvantri Nagar, Gorimedu, Jipmer Campus, Puducherry, Tamil Nadu 605006, India",Puducherry
-12.9246021,79.13481290000001,15-10-15,42.0,F,"Pudur Nadu Village, Thiruppathur, Vellore",nan,CMC Veloore,nan,"Ida Scudder Road, Vellore, Tamil Nadu 632004, India",Vellore
-12.9406819,77.5982643,15-10-15,6.0,M,"Renavi, Khanpur",Maharashtra,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-11.3410364,77.7171642,30-10-15,29.0,F,"Vallanchery, Edayoor post, Malappuram",Kerala,Erode ,Kerala,"Erode, Tamil Nadu, India",Erode
-11.586104400000002,78.0641431,03-11-15,50.0,F,nan,nan,VIMS Salem,Tamil Nadu,"Chinna Seeragapadi, Salem, Tamil Nadu 636308, India",Salem
-12.9904985,77.55309240000001,21-11-15,35.0,M,Dasanahalli,Karnataka,ESI Bangalore,Karnataka,"ESIC Model Hospital, 3rd Block, Rajaji Nagar, Bengaluru, Karnataka 560010, India",Bengaluru
-12.9406819,77.5982643,08-12-15,62.0,M," Kattige halli, Nuggehalli Hobli",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-17.436660999999997,78.482854,10-12-15,66.0,F,"2972 H. No, Behind Swarna Kala Mandir, Warangal",Andhra Pradesh,Kims Secunderababd,Andhra Pradesh,"1-8-31/1, Minister Road, Krishna Nagar Colony, Begumpet, Secunderabad, Telangana 500003, India",Secunderabad
-17.706492800000003,83.304866,11-12-15,50.0,F,Suravarapu Veedhi Laveru Mandal Srikakalam ,Andhra Pradesh,Andhra Medical College,Andhra Pradesh,"Jagadamba Junction, Visakhapatnam, Andhra Pradesh 530002, India",Visakhapatnam
-12.963071300000001,80.2457495,01-11-16,76.0,M,"No:27-3-151, Saraswathi Nagar Nellore, Andra Pradesh",Andra Pradesh,"Apollo, Chennai",Tamil Nadu,"5/639, Old Mahabalipuram Road,, Perungudi, Chennai, Tamil Nadu 600096, India",Chennai
-10.0876205,76.388183,29-01-16,64.0,F,"St Joseph Convent,P O Pulluvazhi, Perumbavoor,Kerala",Kerala,"Rajagiri Hospital, Aluva",Kerala,"Near GTN Junction, Aluva - Munnar Rd, Chunagamvely, Aluva, Kochi, Kerala 683112, India",Kochi
-12.9373826,77.59205779999999,22-02-16,14.0,M,"Seege Halli,K R Pura, Karnataka",Karnataka,"IGICH, Bangalore",Karnataka,"1st Block, Jayanagar, Bengaluru, Karnataka 560029, India",Bengaluru
-18.963068399999997,72.8336083,22-02-16,10.0,M,"Shahid Mohali ,  Room No.4 Dudh Naka,Choudhary  Mohalla, Near National High school Kalyan,Thane,Maharashtra",Maharashtra,JJ Hospital,Mumubai,"J J Marg, Nagpada-Mumbai Central, Off Jijabhoy Road, Mumbai, Maharashtra 400008, India",Mumbai
-19.751479800000002,75.7138884,22-01-16,3.0,M,"Add post,Mohite Radgaon Thaluke Kadegaw,District Sangli",Maharashtra,nan,Maharashtra,"Maharashtra, India",Mumbai
-12.9406819,77.5982643,03-12-16,78.0,M,"Hooeinavara halli, Terasandra, Karnataka",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,18-03-16,50.0,F,"No:25 Suvarna Nagar, Dodda bidara kallu,Karnataka",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9482305,77.5740065,26-03-16,10.0,M,"S/O Mohamd Sayed Ali ,Jakkur Circle, Yalahanka, Bangalore",Karnataka,"Vani Vilas, Bangalore",Karnataka,"Vanivilas Rd, Bengaluru, Karnataka 560004, India",Bengaluru
-12.9406819,77.5982643,29-03-16,67.0,M,"C/O. LAKSHMIDEVAMMA (WIFE), NO.64, CHOKKAMAPALLI,",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,11-04-16,40.0,F,SANTE KODHIHALLI @ POST,Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.963566900000002,77.5738074,09-05-16,16.0,M,nan,nan,"Victoria Hospital, Bangalore",Karnataka,"Near City Market, Fort Road, Halsurpete, Nagarathpete, Bengaluru, Karnataka 560002, India",Bengaluru
-12.9406819,77.5982643,10-05-16,32.0,M,"GONI TUMKUR VILL AND POST ., DABBEGATTA HOBLI",nan,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,24-05-16,12.0,M,"GOVT HIGH SCHOOL , KINNI SULTAN",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,24-05-16,30.0,M,"ARURU VILL AND POST ., CHIKKABALLAPUR TK�",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9246021,79.13481290000001,25-05-16,13.0,M,"4/40A, Somanthangal Village, Five Putithur Post, Arni Taluka, Thiruvanamalai",Tamil Nadu,"CMC, Vellore",Tamil Nadu,"Ida Scudder Road, Vellore, Tamil Nadu 632004, India",Vellore
-16.694329,74.231151,18-06-16,10.0,F,"At PO Kante, Karanjpen, Shahuwadi Taluka, Kolhapur",Maharashtra,"Arya Child Neurology  Clinic, Kolhapur",Maharashtra,"Prabhanand Complex, 3rd Floor, Tembe Road, Kolhapur, Maharashtra, India",Kolhapur
-23.099657399999998,72.5914804,20-06-16,2.0,F,"Kherancha village (Modasa), Aravalli district",Gujarat,"Om Pediatric & Neonatal Criticare Hospital, Ahmedabad",Gujarat,"3rd Floor, Urja Avenue, Beside Deshwar Hotel, Near Visat Petrol Pump, Sabarmati Gandhinagar Highway, Parvati Nagar, Acher, Ahmedabad, Gujarat 380005, India",Ahmedabad
-12.9406819,77.5982643,22-06-16,17.0,M,"KOOLADAKAL COLONY ,, KUPPANOOR ",Tamil Nadu,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-27.165616600000003,88.3603898,23-06-16,13.0,M,"Nandigaon, Jmetha",Sikkim,"District Hospital, Namchi",Sikkim,"Namchi, Sikkim 737126, India",Sikkim
-12.9406819,77.5982643,01-07-16,32.0,F,"KARAKALLAHALLI ,, NAGARAHALU POST , Pin:577175",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-17.4997845,78.3840907,05-07-17,0.0,nan,nan,nan,"Rainbow Children's  Hospital, Hyderabad",Andhra Pradesh,"Plot No. 1, Chermas, Block 5, Hyder Nagar, RamNaresh Nagar, Kukatpally, Hyderabad, Telangana 500072, India",Hyderabad
-12.9373826,77.59205779999999,11-07-17,9.0,M,nan,nan,"IGICH, Bangalore",Karnataka,"1st Block, Jayanagar, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,22-07-17,4.0,F,"ARAKKUPARAMBAN HOUSE, THELAKKAD VILL",Kerala,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,22-07-16,40.0,M,"KETUGRAM VILL, ANKHONA POST AND P S",West Bengal,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,29-07-16,18.0,M,"NO.446, 1ST CROSS, AGRAHARA",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-8.5216655,76.9264027,23-07-16,9.0,M,nan,nan,SCITMST,Kerala,"Near Medical College, Thiruvananthapuram, Kerala 695011, India",Thiruvananthapuram
-12.971865300000001,77.5855659,06-08-16,73.0,M,nan,nan,St. Martha,Karnataka,"Nrupathunga Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Bengaluru
-22.307573100000003,73.1638444,19-08-16,5.0,F,nan,Gujarat,Toprani,Gujarat,"No.10, Suflam Apartment, Haribhakti Colony, Opposite Racecourse Post office, Behind Alkapuri Telephone Exchange, Race, Cours, Vadodara, Gujarat 390007, India",Vadodara
-12.9406819,77.5982643,30-08-16,42.0,M,"#82,NILASANDRA,MG GARDAN, VEMRAFARU MASTJID ROAD",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,30-08-16,51.0,M,nan,nan,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,15-09-16,45.0,M,"NO:78,B G ROAD,NEAR GOVT SCHOOL,CHIKKAMMNAHALLI",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-9.9287037,78.1369624,18-10-16,4.0,M,nan,nan,Madurai Medical College,Tamil Nadu,"Medical College Rd, Alwarpuram, Madurai, Tamil Nadu 625020, India",Maduri
-12.9406819,77.5982643,19-10-16,48.0,M,"NO.6-175, 6TH CROSS PIPE LINE, MAGADI MAIN ROAD",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-26.742573800000002,94.1951087,15-11-16,60.0,F,"C/O Mr. Panjit Basu, Village Pulibar Hazrigaon. P.S Pulibar Dist Jorhat",Assam,Jorhat Medical College,Assam,"Kushal Konwar Path, Barbheta, Jorhat, Assam 785001, India",Jorhat
-19.0334048,72.83828630000001,17-11-16,12.0,M,nan,nan,Hinduja,Maharashtra,"Veer Sawarkar Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",Mumbai
-12.9406819,77.5982643,22-11-16,3.0,M,"RONUR VILL AND POST, SRINIVASAPURA TQ",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,23-11-17,22.0,M,"NO.120, 1ST MAIN ROAD , LAGGERE , PEENYA SMALL INDUSTRIES",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-12.9406819,77.5982643,12-12-16,3.0, M,"NO 23 21ST CROSS , OLD BAGALUR LAY OUT",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-23.104452600000002,72.60248309999999,12-12-16,1.0,F,nan,nan,Lotus Hospital,Gujarat,"BESIDE SWASTIK SCHOOL, OPP BALIYADEV TEMPLE, Motera Stadium Rd, Ahmedabad, Gujarat 380005, India",Ahmedabad
-12.9406819,77.5982643,14-12-16,30.0,M,"KARADUNA VILLAGE, , GANGAVATI T K",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
-18.5257564,73.8703995,14-12-16,5.0,M,"Shikrapur, Shirur",Maharashtra,Sasson General Hospital,Maharashtra,"Agarkar Nagar, Pune, Maharashtra 411001, India",Pune
-16.4291905,74.5878546,23-12-16,5.0,F,nan,Karnataka,"Salagare Children Hospital, Chikodi",Karnataka,"Bhagyalaxmi nagar, Chikodi, Karnataka 591201, India",Belgaum
-12.9406819,77.5982643,05-09-16,32.0,F,"APPAGERE VILL, CHANPATNA TLK",Karnataka,NIMHANS,Karnataka,"Hosur Road, Near Bangalore Milk Dairy, Bengaluru, Karnataka 560029, India",Bengaluru
+Latitude,Longitude,Date,Age,Sex,Patient_State,Hospital_Address,Hospital_State
+13.0304619,77.56468620000001,06-01-17,14,F,Karnataka,"M. S Ramaiah, Bangalore",Karnataka
+12.9406819,77.5982643,10-01-17,26,M,Karnataka,NIMHANS,Karnataka
+22.7969535,75.84515649999999,10-01-17,25,F,Madhya Pradesh,"SAIMS, Indore",Madhya Pradesh
+19.751479800000002,75.7138884,20-01-17,62,F,Maharashtra,Unknown,Maharashtra
+10.807032199999998,78.7111298,30-01-17,62,M,Tamil Nadu,"Apollo, Trichy",Tamil Nadu
+12.9406819,77.5982643,03-02-17,28,F,Karnataka,NIMHANS,Karnataka
+19.2097076,72.97242740000002,16-02-17,56,M,Unknown,"Jupiter Hospital, Thane",Maharashtra
+22.307573100000003,73.1638444,25-02-17,13,M,Gujarat,Toprani Lab,Gujarat
+15.352640099999999,75.12426500000001,28-02-17,16,M,Unknown,"Suchirayu Hospital, Hubli",Karnataka
+12.9406819,77.5982643,02-03-17,39,M,Karnataka,NIMHANS,Karnataka
+15.361600199999998,75.13072009999999,04-03-17,4,F,Karnataka,"KIMS, Hubli",Karnataka
+12.9406819,77.5982643,08-03-17,16,M,Andhra Pradesh,NIMHANS,Karnataka
+11.9494936,79.7970164,08-03-17,5,M,Tamil Nadu,"JIPMER, Puducherry",Tamil Nadu
+12.9294819,77.6201825,01-04-17,54,F,Karnataka,"St. John's Medical College, Bangalore",Karnataka
+19.0015675,72.8421056,07-04-17,4,F,Maharashtra,"KEM, Mumbai",Maharashtra
+12.9406819,77.5982643,12-04-17,75,M,Karnataka,NIMHANS,Karnataka
+15.464357000000001,73.85837059999999,19-04-17,59,M,Goa,Goa Medical College,Goa
+17.4997845,78.3840907,02-05-17,9,M,Unknown,"Birth Right, Rainbow, Hyderabad",Andhra Pradesh
+12.9246021,79.13481290000001,16-05-17,11,M,Unknown,CMC Vellore,Tamil Nadu
+22.3127258,73.15881970000001,16-05-17,54,M ,Gujrat,"Sterling Hospital, Vadodra",Gujrat
+12.9406819,77.5982643,21-05-17,42,M,Karnataka,NIMHANS,Karnataka
+18.9970588,72.8430731,25-05-17,26,M,Maharashtra,"MGM Hospital, Mumbai",Maharashtra
+12.9406819,77.5982643,31-05-17,38,F,Karnataka,NIMHANS,Karnataka
+30.348773600000005,76.35419830000001,28-06-17,30,M,Punjab,"Phull Neuro and Multispeciality hospital, Patiala",Punjab
+19.0334048,72.83828630000001,04-07-17,12,M,Unknown,"Hinduja Hospital, Mumubai",Maharashtra
+10.7454336,79.1119027,15-07-17,51,M,Unknown,"Meenakshi Hospital, Tanjore",Tamil Nadu
+19.0844395,82.0237032,31-07-17,65,M,Madhya Pradesh,"GMC and Maharani Hospital, Jagdalpur",Madhya Pradesh
+16.7009263,74.2266908,26-08-17,4,M,Maharashtra,"GMC, Kolhapur",Maharashtra
+22.2516659,73.1973553,01-05-14,3,M,Gujarat,"Child Neurology and Epilepsy clinic, Vadodara",Gujarat
+19.0334048,72.83828630000001,08-01-17,11,M,Unknown,"Hinduja, Mumbai",Maharashtra
+12.9406819,77.5982643,16-01-14,50,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,18-01-14,12,F,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,22-01-14,35,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,25-01-14,11,F,Karnataka,NIMHANS,Karnataka
+12.9373826,77.59205779999999,25-01-14,45,M,Unknown,IGICH,Karnataka
+15.3172775,75.7138884,25-01-14,17,M,Unknown,Unknown,Karnataka
+12.9585657,77.6489842,02-10-14,27,M,Unknown,"Manipal Hospital , Bangalore",Karnataka
+12.9246021,79.13481290000001,17-02-15,23,M,Unknown,CMC Vellore,Tamil Nadu
+22.276577,73.2002906,18-02-14,49,M,Unknown,Global Baroda Hospital,Gujarat
+18.530316100000004,73.8767531,25-02-14,28,F,Unknown,"Jehangiri Hospital, Pune",Maharashtra
+22.307573100000003,73.1638444,Unknown,49,M,Unknown,Toprani,Gujarat
+9.9287037,78.1369624,25-02-14,21,M,Unknown,Madurai Medical College,Tamil Nadu
+12.9406819,77.5982643,03-03-14,38,F,Karnataka,NIMHANS,Karnataka
+15.3172775,75.7138884,03-10-14,59,F,Unknown,Unknown,Karnataka
+12.9477337,77.5793661,20-03-14,60,M,Unknown,"Cauvery Medical Centre, Bangalore",Karnataka
+11.354889100000001,76.8019957,03-12-14,46,M,Unknown,"Pasteur Institute, Coonoor",Tamil Nadu
+12.9406819,77.5982643,20-03-14,7,M,Tamil Nadu,NIMHANS,Karnataka
+12.9406819,77.5982643,24-03-14,8,M,Maharashtra,NIMHANS,Karnataka
+12.9406819,77.5982643,24-03-14,10,M,Andra Pradesh,NIMHANS,Karnataka
+12.9406819,77.5982643,26-03-14,12,M,Andra Pradesh,NIMHANS,Karnataka
+18.9716603,72.8098319,26-03-14,76,M,Maharashtra,"Jaslok hospital, Mumbai",Maharashtra
+12.9406819,77.5982643,16-04-14,38,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,16-04-14,6,M,Karnataka,NIMHANS,Karnataka
+17.421805300000003,78.45201109999999,25-04-14,62,M,Andra Pradesh,"NIMS, Hyderabad",Andra Pradesh
+18.9716603,72.8098319,28-04-14,36,F,Maharashtra,"Jaslok hospital, Mumbai",Maharashtra
+12.9585657,77.6489842,05-08-14,15,M,Karnataka,"Manipal Hospital , Bangalore",Karnataka
+12.2956638,76.63200359999999,05-12-14,31,M,Karnataka,"Apollo BGS, Mysore",Karnataka
+12.9406819,77.5982643,05-12-14,35,M,Karnataka,NIMHANS,Karnataka
+18.963068399999997,72.8336083,23-05-14,6,M,Maharashtra,"JJ Hospital, Mumbai",Maharashtra
+15.8843279,74.5178527,27-05-14,8,F,Karnataka,"KLES, Belgaum",Karnataka
+12.9406819,77.5982643,07-02-14,11,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,07-07-14,51,M,Karnataka,NIMHANS,Karnataka
+28.5629357,77.2102106,07-10-14,Unknown,Unknown,Unknown,"AIIMS, Delhi",Delhi
+22.307573100000003,73.1638444,23-07-14,7,F,Gujarat,Toprani,Gujarat
+12.9406819,77.5982643,28-07-14,14,M,Andra Pradesh,NIMHANS,Karnataka
+11.021994,77.01857700000001,31-07-14,3,F,Unknown,"Centre for Biotech,Coimbatore",Tamil Nadu
+13.0601743,80.2523214,08-11-14,14,F,Switzerland,"Apollo Children's Hospital, Chennai",Tamil Nadu
+22.307573100000003,73.1638444,14-08-14,56,F,Gujarat,Toprani,Gujarat
+12.9406819,77.5982643,09-01-14,32,M,Karnataka,NIMHANS,Karnataka
+16.684969199999998,74.2381757,09-02-14,7,M,Maharashtra,"Aster Aadhar Hospital, Kolhapur",Maharashtra
+9.9287037,78.1369624,09-10-14,60,M,Tamil Nadu,Madurai Medical College,Tamil Nadu
+9.9287037,78.1369624,09-08-14,60,M,Unknown,Madurai Medical College,Tamil Nadu
+19.2097076,72.97242740000002,09-10-14,1,F,Unknown,"Jupiter Hospital, Thane",Maharashtra
+12.984515,77.6143821,23-09-14,26,F,Unknown,St.Johns Bangalore,Karnataka
+12.9406819,77.5982643,25-09-14,6,M,Karnataka,NIMHANS,Karnataka
+17.706492800000003,83.304866,27-10-14,47,M,Unknown,"Andhra Medical College, Vishakapatnam",Andra Pradesh
+19.0015675,72.8421056,11-05-14,5,M,Unknown,"KEM Hospital, Mumbai",Maharashtra
+12.9406819,77.5982643,19-11-14,34,M,Tamil Nadu,NIMHANS,Karnataka
+18.5040375,73.8900961,26-11-14,14,M,Unknown,"AFMC, Pune",Maharashtra
+9.9287037,78.1369624,26-11-14,30,M,Unknown,Madurai Medical College,Tamil Nadu
+19.1920332,72.9868847,12-10-14,13,F,Unknown,"Rajiv Gandhi Medical College and CSMH Hospital, Thane",Maharashtra
+22.307573100000003,73.1638444,27-12-14,72,M,Gujarat,Toprani,Gujarat
+12.9246021,79.13481290000001,12-01-15,10,M,Andhra Pradesh,CMC Vellore,Tamil Nadu
+15.8843279,74.5178527,16-01-15,8,M,Karnataka,"KLES, Belgum",Karnataka
+9.9287037,78.1369624,28-01-17,41,F,Unknown,Madurai Medical College,Tamil Nadu
+22.3043652,73.1725354,02-02-15,18,M,Gujarat,VINS,Gujarat
+18.504901899999997,73.92725959999999,10-03-15,42,F,Maharashtra,Noble Hospital,Maharashtra
+31.2867663,75.6289065,01-04-15,29,M,Andhra Pradesh,"Military hospital, Jalandhar",Punjab
+12.8091968,77.695097,08-04-15,32,M,Unknown,"Narayan Hrudayalaya, Blore",Karnataka
+13.049014,80.234764,29-04-15,58,F,Tamil Nadu,"Global, Chennai",Tamil Nadu
+12.9373826,77.59205779999999,05-05-15,10,M,Karnataka,IGICH,Karnataka
+22.3250211,73.16310109999999,15-05-15,55,M,Unknown,"Bhailal Amin Gen Hosp, Baroda",Gujarat
+12.9406819,77.5982643,19-05-15,26,M,Karnataka,NIMHANS,Karnataka
+12.964646,77.6281983,04-06-15,35,M,Unknown,"Command hospital, Bangalore",Karnataka
+12.3424835,76.6523711,15-06-15,7,M,Karnataka,JSS Mysore,Karnataka
+23.043258399999996,72.54988540000001,17-06-15,3,F,Unknown,"Paediatric neurology Clinic, Ahmedabad",Gujarat
+12.9406819,77.5982643,20-06-15,23,F,Karnataka,NIMHANS,Karnataka
+9.498066699999999,76.3388484,22-06-15,32,M,Kerala,"Alappuzha, Kerela",Kerala
+16.694329,74.231151,06-07-15,5,M,Maharashtra,"Arya child neurology Clinica, Kolhapur",Maharashtra
+19.117798,74.729958,07-07-15,16,F,Maharashtra,Nobel Hospital Amhednagar,Maharashtra
+12.9406819,77.5982643,07-07-15,41,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,20-07-15,37,M,Karnataka,NIMHANS,Karnataka
+22.307573100000003,73.1638444,25-07-15,21,M,Gujarat,Toprani,Gujarat
+13.360501500000002,74.7863698,28-07-15,20,M,Kerala,Manipal,Karnataka
+12.9373826,77.59205779999999,05-08-15,12,F,Karnataka,IGICH,Karnataka
+17.436660999999997,78.482854,07-08-15,60,F,Andhra Pradesh,Kims Secunderababd,Andhra Pradesh
+8.513628599999999,76.9095433,17-08-15,24,M,Unknown,kerala institute of Medical sciences,Kerala
+12.3210547,76.658332,17-08-15,58,F,Unknown,St. Philomena,Karnataka
+16.694329,74.231151,26-08-15,10,F,Maharashtra,"Arya child neurology Clinica, Kolhapur",Maharashtra
+12.9406819,77.5982643,31-08-15,65,M,Unknown,NIMHANS,Karnataka
+12.9246021,79.13481290000001,01-09-15,18,M,Unknown,CMC Vellore,Tamil Nadu
+15.8843279,74.5178527,15-09-15,16,F,Unknown,"KLES, Belgum",Karnataka
+15.5341227,80.05475,18-09-15,56,M,Andhra Pradesh,"KIMS, Kundapur",Andhra Pradesh
+13.0305239,77.5665628,10-10-15,0,M,Unknown,M S ramaiah,Karnataka
+11.9494936,79.7970164,15-10-15,18,F,Tamil Nadu,JIPMER Puducherry,Tamil Nadu
+12.9246021,79.13481290000001,15-10-15,42,F,Unknown,CMC Veloore,Tamil Nadu
+12.9406819,77.5982643,15-10-15,6,M,Maharashtra,NIMHANS,Karnataka
+11.3410364,77.7171642,30-10-15,29,F,Kerala,Erode ,Kerala
+11.586104400000002,78.0641431,03-11-15,50,F,Unknown,VIMS Salem,Tamil Nadu
+12.9904985,77.55309240000001,21-11-15,35,M,Karnataka,ESI Bangalore,Karnataka
+12.9406819,77.5982643,08-12-15,62,M,Karnataka,NIMHANS,Karnataka
+17.436660999999997,78.482854,10-12-15,66,F,Andhra Pradesh,Kims Secunderababd,Andhra Pradesh
+17.706492800000003,83.304866,11-12-15,50,F,Andhra Pradesh,Andhra Medical College,Andhra Pradesh
+12.963071300000001,80.2457495,01-11-16,76,M,Andra Pradesh,"Apollo, Chennai",Tamil Nadu
+10.0876205,76.388183,29-01-16,64,F,Kerala,"Rajagiri Hospital, Aluva",Kerala
+12.9373826,77.59205779999999,22-02-16,14,M,Karnataka,"IGICH, Bangalore",Karnataka
+18.963068399999997,72.8336083,22-02-16,10,M,Maharashtra,JJ Hospital,Mumubai
+19.751479800000002,75.7138884,22-01-16,3,M,Maharashtra,Unknown,Maharashtra
+12.9406819,77.5982643,03-12-16,78,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,18-03-16,50,F,Karnataka,NIMHANS,Karnataka
+12.9482305,77.5740065,26-03-16,10,M,Karnataka,"Vani Vilas, Bangalore",Karnataka
+12.9406819,77.5982643,29-03-16,67,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,11-04-16,40,F,Karnataka,NIMHANS,Karnataka
+12.963566900000002,77.5738074,09-05-16,16,M,Unknown,"Victoria Hospital, Bangalore",Karnataka
+12.9406819,77.5982643,10-05-16,32,M,Unknown,NIMHANS,Karnataka
+12.9406819,77.5982643,24-05-16,12,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,24-05-16,30,M,Karnataka,NIMHANS,Karnataka
+12.9246021,79.13481290000001,25-05-16,13,M,Tamil Nadu,"CMC, Vellore",Tamil Nadu
+16.694329,74.231151,18-06-16,10,F,Maharashtra,"Arya Child Neurology  Clinic, Kolhapur",Maharashtra
+23.099657399999998,72.5914804,20-06-16,2,F,Gujarat,"Om Pediatric & Neonatal Criticare Hospital, Ahmedabad",Gujarat
+12.9406819,77.5982643,22-06-16,17,M,Tamil Nadu,NIMHANS,Karnataka
+27.165616600000003,88.3603898,23-06-16,13,M,Sikkim,"District Hospital, Namchi",Sikkim
+12.9406819,77.5982643,01-07-16,32,F,Karnataka,NIMHANS,Karnataka
+17.4997845,78.3840907,05-07-17,0,Unknown,Unknown,"Rainbow Children's  Hospital, Hyderabad",Andhra Pradesh
+12.9373826,77.59205779999999,11-07-17,9,M,Unknown,"IGICH, Bangalore",Karnataka
+12.9406819,77.5982643,22-07-17,4,F,Kerala,NIMHANS,Karnataka
+12.9406819,77.5982643,22-07-16,40,M,West Bengal,NIMHANS,Karnataka
+12.9406819,77.5982643,29-07-16,18,M,Karnataka,NIMHANS,Karnataka
+8.5216655,76.9264027,23-07-16,9,M,Unknown,SCITMST,Kerala
+12.971865300000001,77.5855659,06-08-16,73,M,Unknown,St. Martha,Karnataka
+22.307573100000003,73.1638444,19-08-16,5,F,Gujarat,Toprani,Gujarat
+12.9406819,77.5982643,30-08-16,42,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,30-08-16,51,M,Unknown,NIMHANS,Karnataka
+12.9406819,77.5982643,15-09-16,45,M,Karnataka,NIMHANS,Karnataka
+9.9287037,78.1369624,18-10-16,4,M,Unknown,Madurai Medical College,Tamil Nadu
+12.9406819,77.5982643,19-10-16,48,M,Karnataka,NIMHANS,Karnataka
+26.742573800000002,94.1951087,15-11-16,60,F,Assam,Jorhat Medical College,Assam
+19.0334048,72.83828630000001,17-11-16,12,M,Unknown,Hinduja,Maharashtra
+12.9406819,77.5982643,22-11-16,3,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,23-11-17,22,M,Karnataka,NIMHANS,Karnataka
+12.9406819,77.5982643,12-12-16,3, M,Karnataka,NIMHANS,Karnataka
+23.104452600000002,72.60248309999999,12-12-16,1,F,Unknown,Lotus Hospital,Gujarat
+12.9406819,77.5982643,14-12-16,30,M,Karnataka,NIMHANS,Karnataka
+18.5257564,73.8703995,14-12-16,5,M,Maharashtra,Sasson General Hospital,Maharashtra
+16.4291905,74.5878546,23-12-16,5,F,Karnataka,"Salagare Children Hospital, Chikodi",Karnataka
+12.9406819,77.5982643,05-09-16,32,F,Karnataka,NIMHANS,Karnataka
