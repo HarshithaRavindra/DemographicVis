@@ -1,0 +1,145 @@
+body, html{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 10px;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #e4e4e4;
+}
+#calendar, #time, #chart {
+  background-color: white;
+  margin: 10px;
+  padding: 5px;
+  overflow-x: hidden;
+}
+#numerical, #mcqsr, #menu_container, #mcqmr{
+  background-color: white;
+  padding: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
+  margin: 10px;
+}
+.calendar-container{
+  height: 150px;
+  overflow-y: scroll;
+}
+
+#time{
+  position: relative;
+  text-align: center;
+  height: 140px;
+  padding-top: 20px;
+}
+
+#chart{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+button {
+    background-color: #7e7e7e;
+    border: none;
+    color: white;
+    padding: 4px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    border-radius: 4px;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.axis{
+  font-size: 10px;
+}
+.menugplom_button{
+  background-color: #e4e4e4;
+  margin: 1px;
+  padding-left: 3px;
+  padding-right: 3px;
+  color: black;
+}
+.selected{
+  background-color: #3f3f3f;
+  color: white;
+}
+.padding-0{
+  padding-right:0;
+  padding-left:0;
+}
+
+#chart {
+  min-height: 300px;
+  margin: 12px 0;
+}
+.float {
+  float: left;
+}
+.centered {
+  text-align: center;
+}
+.hide {
+  display: none;
+}
+input {
+  font-size: 16px;
+}
+
+svg {
+  font: 10px sans-serif;
+}
+
+.background path {
+  fill: none;
+  stroke: #ddd;
+  shape-rendering: crispEdges;
+}
+
+.foreground path {
+  fill: none;
+  stroke: steelblue;
+}
+
+.brush .extent {
+  fill-opacity: .3;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+  cursor: move;
+}
+
+
+#info-button{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  z-index: 10;
+}
+
+.selected{
+  border:solid 1px black; margin:10px;
+    box-shadow:0px 12px 12px 1px #333;
+}
+
+
+.focus:focus {
+  box-shadow:0px 12px 12px 1px #333;
+}

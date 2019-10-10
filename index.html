@@ -1,0 +1,153 @@
+<!doctype html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Patient Vis</title>
+	
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+    <!-- styles -->
+    <link type="text/css" rel="stylesheet" href="css/leaflet.css" />
+    <link type="text/css" rel="stylesheet" href="css/font-awesome-4.1.0.min.css" />
+    <link type="text/css" rel="stylesheet" href="css/bootstrap-3.1.1.min.css">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap-theme-3.1.1.min.css" />
+    <link type="text/css" rel="stylesheet" href="css/layout.main.css" />
+    <link type="text/css" rel="stylesheet" href="css/main.css" />
+    <link type="text/css" rel="stylesheet" href="css/main.responsive.css" />
+    <link type="text/css" rel="stylesheet" href="css/main.quickfix.css" />
+	<link type="text/css" rel="stylesheet" href="css/keen-dashboards.css" />
+    <link type="text/css" rel="stylesheet" href="css/dashboard.css" />
+    <link type="text/css" rel="stylesheet" href="css/d3.parsets.css" />
+    <link type="text/css" rel="stylesheet" href="css/dc.css" />
+    <link type="text/css" rel="stylesheet" href="css/dc.min.css" />
+
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="css/main_manual.css"/>
+    <link type="text/css" rel="stylesheet" href="css/filterstyle.css"/>
+    <link type="text/css" rel="stylesheet" href="css/accordion.css"/>
+    <!-- /styles -->
+
+    <!-- favicons -->
+    <link rel="shortcut icon" href="ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="ico/favicon.png">
+
+    <script type="text/javascript" src="js/libs/jquery-3.1.1.min.js"></script>
+    <script src="js/libs/tether.js"></script>
+    <script src="js/libs/tether.min.js"></script>
+    <script src="js/libs/topojson.v1.min.js"></script>
+    <script src="js/libs/bootstrap.min.js"></script>
+    <script src="js/libs/leaflet.js"></script>
+    <script src="js/libs/leaflet-heat.js"></script>
+    <script src="js/libs/d3.v3.js"></script>
+    <script src="js/libs/d3.parsets.js"></script>
+    <script src="js/libs/queue.js"></script>
+    <script src="js/libs/crossfilter.js"></script>
+    <script src="js/libs/dc.min.js"></script>
+    <script src="js/libs/underscore-min.js"></script>
+    <script src="js/libs/dc.js"></script>
+    <script src="js/main.js"></script>
+        
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('dropdown-toggle').dropdown()
+        });
+    </script>
+</head>
+
+<body>
+
+    <!-- Wrap all page content here -->
+    <div id="wrap">
+
+        <!-- Fixed navbar -->
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <p class="navbar-brand">Demographic Viz</p>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class='wrap' style='font: 12px sans-serif;'>
+            <div class="dc-data-count" style="float: left;  width:500px; ">
+                <h6>
+                  <span >
+                    <span class="filter-count"></span>
+                     selected out of
+                    <span class="total-count"></span>
+                     records | 
+                    <a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
+                  </span>
+                </h6>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="col-sm-12"> 
+            <div class="chart-wrapper" >
+                <div class="chart-title">
+                    Map
+                </div>
+                <div class="chart-stage">
+                     <div id="map" style="width: 800px; height: 400px"></div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- <div class ="col-sm-12"></div> -->
+
+        <div class="col-sm-12">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                 Temporal Analysis 
+              </div>
+              <div class="chart-stage">
+                <div id="time-chart"></div>
+              </div>
+            </div>
+        </div>
+        <!-- <div class ="col-sm-6"></div> -->
+
+    </div>
+
+    <div id="footer">
+        <div class="container">
+            <p>Copyright GVCL and Nimhans</p>
+        </div>
+    </div>
+
+
+    <script>
+        window.jQuery || document.write('<script type="text/javascript" src="js/libs/jquery-1.11.1.min.js"><\/script>')
+    </script>
+    <script type="text/javascript" src="js/plugins.js" defer></script>
+    <script type="text/javascript" src="js/script.js" defer></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script src='js/libs/leaflet-omnivore.min.js'></script>
+
+    <script type="text/javascript">
+        var x = true;
+        title = ['Latitude', 'Longitude', 'Date', 'Age', 'Sex', 'Patient_Address', 'Patient_State', 'Hospital_Address', 'Hospital_State', 'Whole_Address'];
+        yourInitFunction(title, x);
+    </script>
+    <script>
+        $(".button-collapse").sideNav();
+        $(document).ready(function() {
+        $('select').material_select();
+        });
+    </script>
+
+
+</body>
+
+</html>
